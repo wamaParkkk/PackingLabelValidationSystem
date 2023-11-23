@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PackingLabelValidationSystem", "PackingLabelValidationSystem\PackingLabelValidationSystem.csproj", "{6A46D4F7-EBB5-4246-90F3-247F005FA090}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A46D4F7-EBB5-4246-90F3-247F005FA090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A46D4F7-EBB5-4246-90F3-247F005FA090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A46D4F7-EBB5-4246-90F3-247F005FA090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A46D4F7-EBB5-4246-90F3-247F005FA090}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39DDEB65-5096-42F7-8E3C-5B01F4C46038}
+	EndGlobalSection
+EndGlobal

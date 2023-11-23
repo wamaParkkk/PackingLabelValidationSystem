@@ -1,0 +1,3 @@
+C:\Users\156607\Amkor_Project\PackingLabelValidationSystem\PackingLabelValidationSystem\VoiceRecipe\
+C:\Users\156607\Amkor_Project\PackingLabelValidationSystem\PackingLabelValidationSystem\
+C:\Users\156607\Amkor_Project\PackingLabelValidationSystem\PackingLabelValidationSystem\SoundFiles\
